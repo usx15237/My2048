@@ -1,0 +1,72 @@
+E:\Project\csharp\2048Game\2048Game\bin\Debug\2048Game.exe
+E:\Project\csharp\2048Game\2048Game\bin\Debug\2048Game.pdb
+E:\Project\csharp\2048Game\2048Game\obj\Debug\_2048Game.MainForm.resources
+E:\Project\csharp\2048Game\2048Game\obj\Debug\_2048Game.NumberControl.resources
+E:\Project\csharp\2048Game\2048Game\obj\Debug\_2048Game.OverForm.resources
+E:\Project\csharp\2048Game\2048Game\obj\Debug\_2048Game.Properties.Resources.resources
+E:\Project\csharp\2048Game\2048Game\obj\Debug\_2048Game.Resource.resources
+E:\Project\csharp\2048Game\2048Game\obj\Debug\2048Game.csproj.GenerateResource.Cache
+E:\Project\csharp\2048Game\2048Game\obj\Debug\2048Game.exe
+E:\Project\csharp\2048Game\2048Game\obj\Debug\2048Game.pdb
+E:\Project\csharp\2048Game\2048Game\obj\Debug\2048Game.csprojResolveAssemblyReference.cache
+F:\工作\源码\自己搜集的源码\11月份\11.17\2\2048Game\2048Game\obj\Debug\2048Game.exe
+F:\工作\源码\自己搜集的源码\11月份\11.17\2\2048Game\2048Game\obj\Debug\2048Game.pdb
+F:\工作\源码\自己搜集的源码\11月份\11.17\2\2048Game\2048Game\bin\Debug\2048Game.exe
+F:\工作\源码\自己搜集的源码\11月份\11.17\2\2048Game\2048Game\bin\Debug\2048Game.pdb
+F:\工作\源码\自己搜集的源码\11月份\11.17\2\2048Game\2048Game\obj\Debug\2048Game.csprojResolveAssemblyReference.cache
+F:\工作\源码\自己搜集的源码\11月份\11.17\2\2048Game\2048Game\obj\Debug\_2048Game.MainForm.resources
+F:\工作\源码\自己搜集的源码\11月份\11.17\2\2048Game\2048Game\obj\Debug\_2048Game.NumberControl.resources
+F:\工作\源码\自己搜集的源码\11月份\11.17\2\2048Game\2048Game\obj\Debug\_2048Game.OverForm.resources
+F:\工作\源码\自己搜集的源码\11月份\11.17\2\2048Game\2048Game\obj\Debug\_2048Game.Properties.Resources.resources
+F:\工作\源码\自己搜集的源码\11月份\11.17\2\2048Game\2048Game\obj\Debug\_2048Game.Resource.resources
+F:\工作\源码\自己搜集的源码\11月份\11.17\2\2048Game\2048Game\obj\Debug\2048Game.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Winform2048\obj\Debug\2048Game.exe
+C:\Users\Administrator\Desktop\Winform2048\obj\Debug\2048Game.pdb
+C:\Users\Administrator\Desktop\Winform2048\bin\Debug\2048Game.exe
+C:\Users\Administrator\Desktop\Winform2048\bin\Debug\2048Game.pdb
+C:\Users\Administrator\Desktop\Winform2048\obj\Debug\2048Game.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Winform2048\obj\Debug\_2048Game.MainForm.resources
+C:\Users\Administrator\Desktop\Winform2048\obj\Debug\_2048Game.NumberControl.resources
+C:\Users\Administrator\Desktop\Winform2048\obj\Debug\_2048Game.OverForm.resources
+C:\Users\Administrator\Desktop\Winform2048\obj\Debug\_2048Game.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Winform2048\obj\Debug\_2048Game.Resource.resources
+C:\Users\Administrator\Desktop\Winform2048\obj\Debug\2048Game.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Winform2048\obj\Debug\_2048Game.StartForm.resources
+C:\Users\Administrator\Desktop\2048期末作业\Winform2048\obj\Debug\2048Game.exe
+C:\Users\Administrator\Desktop\2048期末作业\Winform2048\obj\Debug\2048Game.pdb
+C:\Users\Administrator\Desktop\2048期末作业\Winform2048\bin\Debug\2048Game.exe
+C:\Users\Administrator\Desktop\2048期末作业\Winform2048\bin\Debug\2048Game.pdb
+C:\Users\Administrator\Desktop\2048期末作业\Winform2048\obj\Debug\2048Game.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\2048期末作业\Winform2048\obj\Debug\_2048Game.MainForm.resources
+C:\Users\Administrator\Desktop\2048期末作业\Winform2048\obj\Debug\_2048Game.NumberControl.resources
+C:\Users\Administrator\Desktop\2048期末作业\Winform2048\obj\Debug\_2048Game.OverForm.resources
+C:\Users\Administrator\Desktop\2048期末作业\Winform2048\obj\Debug\_2048Game.Properties.Resources.resources
+C:\Users\Administrator\Desktop\2048期末作业\Winform2048\obj\Debug\_2048Game.Resource.resources
+C:\Users\Administrator\Desktop\2048期末作业\Winform2048\obj\Debug\_2048Game.StartForm.resources
+C:\Users\Administrator\Desktop\2048期末作业\Winform2048\obj\Debug\2048Game.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\2048期末作业\Winform2048 - 副本\obj\Debug\2048Game.exe
+C:\Users\Administrator\Desktop\2048期末作业\Winform2048 - 副本\obj\Debug\2048Game.pdb
+C:\Users\Administrator\Desktop\2048期末作业\Winform2048 - 副本\obj\Debug\2048Game.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\2048期末作业\Winform2048 - 副本\obj\Debug\_2048Game.MainForm.resources
+C:\Users\Administrator\Desktop\2048期末作业\Winform2048 - 副本\obj\Debug\_2048Game.NumberControl.resources
+C:\Users\Administrator\Desktop\2048期末作业\Winform2048 - 副本\obj\Debug\_2048Game.OverForm.resources
+C:\Users\Administrator\Desktop\2048期末作业\Winform2048 - 副本\obj\Debug\_2048Game.Properties.Resources.resources
+C:\Users\Administrator\Desktop\2048期末作业\Winform2048 - 副本\obj\Debug\_2048Game.Resource.resources
+C:\Users\Administrator\Desktop\2048期末作业\Winform2048 - 副本\obj\Debug\_2048Game.StartForm.resources
+C:\Users\Administrator\Desktop\2048期末作业\Winform2048 - 副本\obj\Debug\2048Game.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\2048期末作业\Winform2048 - 副本\bin\Debug\2048Game.exe
+C:\Users\Administrator\Desktop\2048期末作业\Winform2048 - 副本\bin\Debug\2048Game.pdb
+C:\Users\Administrator\Desktop\2048期末作业\Winform2048 - 副本\obj\Debug\_2048Game.Charts.resources
+C:\Users\Administrator\Desktop\6.19\Winform2048 - 副本\obj\Debug\2048Game.exe
+C:\Users\Administrator\Desktop\6.19\Winform2048 - 副本\obj\Debug\2048Game.pdb
+C:\Users\Administrator\Desktop\6.19\Winform2048 - 副本\obj\Debug\2048Game.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\6.19\Winform2048 - 副本\obj\Debug\_2048Game.Charts.resources
+C:\Users\Administrator\Desktop\6.19\Winform2048 - 副本\obj\Debug\_2048Game.MainForm.resources
+C:\Users\Administrator\Desktop\6.19\Winform2048 - 副本\obj\Debug\_2048Game.NumberControl.resources
+C:\Users\Administrator\Desktop\6.19\Winform2048 - 副本\obj\Debug\_2048Game.OverForm.resources
+C:\Users\Administrator\Desktop\6.19\Winform2048 - 副本\obj\Debug\_2048Game.Properties.Resources.resources
+C:\Users\Administrator\Desktop\6.19\Winform2048 - 副本\obj\Debug\_2048Game.Resource.resources
+C:\Users\Administrator\Desktop\6.19\Winform2048 - 副本\obj\Debug\_2048Game.StartForm.resources
+C:\Users\Administrator\Desktop\6.19\Winform2048 - 副本\obj\Debug\2048Game.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\6.19\Winform2048 - 副本\bin\Debug\2048Game.exe
+C:\Users\Administrator\Desktop\6.19\Winform2048 - 副本\bin\Debug\2048Game.pdb
